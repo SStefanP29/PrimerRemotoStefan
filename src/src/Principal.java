@@ -4,6 +4,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		int cero;
-		int uno;
+		int tres;
+		int cuatro;
 	}
 }
